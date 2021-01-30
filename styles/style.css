@@ -1,0 +1,42 @@
+
+.container{
+    
+    background-color:skyblue;
+    font-size: medium;
+    font-weight: bolder;
+} 
+
+h1{
+    color: hotpink;
+}
+.special-effect:hover{
+    color: indianred;
+    font-size: 60px;
+    background-color: lawngreen;
+}
+ input:focus{
+     font-weight: 700;
+     color: green;
+     font-size:20px;
+ }  
+ li:nth-child(2n+1){
+     background-color: hotpink;
+ }
+ .monchor-she{
+     background-color: indigo;
+ }
+ a:visited{
+     color:blue;
+ }
+a:active{
+    color: rgb(32, 178, 76);
+}
+h2,h3{
+    color:red;
+    font-weight:bold;
+}
+
+
+
+
+
