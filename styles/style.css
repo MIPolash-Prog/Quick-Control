@@ -7,8 +7,8 @@
 } 
 
 h1{
-    color: indigo;
-}
+    color: red;
+    }
 .special-effect:hover{
     color: indianred;
     font-size: 60px;
@@ -32,7 +32,7 @@ a:active{
     color: rgb(32, 178, 76);
 }
 h2,h3{
-    color:red;
+    color:indigo;
     font-weight:bold;
 }
 
